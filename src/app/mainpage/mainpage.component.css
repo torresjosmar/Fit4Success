@@ -1,0 +1,65 @@
+.containerbanner
+{
+    padding: 0px;
+    margin: 0px;
+    margin-top: -25px;
+    margin-bottom: -25px;
+}
+
+.imgbannerhomepage
+{
+    width: 100%;
+    height: 100%;
+}
+
+.caption-bannner
+{
+    margin-top: -30em;
+    float: left;
+    position: relative;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}
+
+.caption-bannner h1
+{
+    font-size: 55px;
+}
+
+.caption-bannner h1 span
+{
+    color: red;
+}
+.caption-bannner h3
+{
+    width: 60%;
+    margin-left: 20%;
+    text-align: right;
+}
+.caption-bannner p
+{
+    width: 60%;
+    margin-left: 20%;
+    text-align: right; 
+}
+
+.caption-bannner p .bannerbutton1
+{
+    background: transparent !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+    border-radius: 5px !important;
+    border-color: #fff !important;
+    font-weight: bold;
+}
+
+.caption-bannner p .bannerbutton2
+{
+    background: red !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+    border-radius: 5px !important;
+    border-color: red !important;
+    font-weight: bold;
+}
